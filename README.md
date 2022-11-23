@@ -13,14 +13,7 @@ N/A
 ## Usage
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
-you can also do this by right clicking in the page and clicking inspect. this will open the developer tools.
-![step 1](assets/images/screenshot1.png)
 
-then, you can choose the developer options to open the console panel.
-![step 2](assets/images/screenshot2.png)
-
-here you can see the topics listed and a suggestion to study first. To get a second suggestion, all you need to do is refresh the page.
-![step 3](assets/images/screenshot3.png)
 
 ## Credits
 N/A
