@@ -13,7 +13,9 @@ N/A
 ## Usage
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
-
+##Links
+you can view this prework study guide [here](https://chriskeno95.github.io/prework-study-guide/)
+you can also view my personal prework study guide that i redesigned so that i could practise more. It can be viewed [here](https://chriskeno95.github.io/personal-study-guide/)
 
 ## Credits
 N/A
